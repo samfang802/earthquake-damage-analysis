@@ -1,0 +1,17 @@
+# Data files
+data/*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
